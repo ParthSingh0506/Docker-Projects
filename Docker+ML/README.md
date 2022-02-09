@@ -1,1 +1,1 @@
-The ML model is trained on the Titanic data set using Support Vector Classifier(SVC). The aim of our model is that it will tell whether the person survived or not with accuracy of above 90% . When it is giving good prediction I deployed it on Docker
+The ML model is trained on the Titanic data set using Support Vector Classifier(SVC). The aim of our model is that it will tell whether the person survived or not with accuracy of above 90%. When it is giving good prediction I deployed it on Docker
